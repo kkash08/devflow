@@ -161,11 +161,6 @@ Background job scheduling enables workflow automation
 
 Structured API contracts improve developer experience
 
-
-
-
-
-
 Automates API-driven workflows
 
-That is aligned.
+
